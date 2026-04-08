@@ -1,6 +1,5 @@
 const table = document.querySelector("#userTable tbody");
 
-// YOUR PERSONAL DATA (FIRST ROW)
 const myData = {
     id: 2023005335,
     firstName: "Wynjess Angel",
